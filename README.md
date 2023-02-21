@@ -13,3 +13,8 @@ Then you can just use the unreal IK retargetter to do the rest.
 I used Mocappys example script as a really helpful base and for xml parsing and the pyfbsdk.
 
 https://mocappys.com/how-to-t-pose-and-characterize-your-character-using-motionbuilder-python/#.Y_UQx3bMIQ8
+
+The workflow for this is all also taken from Trash Praxis's great tut:
+https://www.youtube.com/watch?v=VuJf3jCEs2o&t=457s
+
+But I didn't want to install maya...so this is doing pretty much the same thing but in motionbuilder instead
