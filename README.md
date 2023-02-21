@@ -10,6 +10,6 @@ That's all the script does really, grabs 5 poitns around the body from an import
 
 Then you can just use the unreal IK retargetter to do the rest.
 
-I used Mocappys example script as a really helpful base and xml parsing.
+I used Mocappys example script as a really helpful base and for xml parsing and the pyfbsdk.
 
 https://mocappys.com/how-to-t-pose-and-characterize-your-character-using-motionbuilder-python/#.Y_UQx3bMIQ8
